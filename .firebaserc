@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "gamsa-new",
+    "default": "gamsa-new"
+  }
+}
