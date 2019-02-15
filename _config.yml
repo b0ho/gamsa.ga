@@ -1,11 +1,14 @@
 # Site
 title: 감사 농원입니다
-bio: "감사 농원에 오신것을 환영합니다!"
+bio: "아래 번호로 연락 주세요!
+전화 010-2314-6034
+문자 010-8011-2791   
+"
 description: "thank to you.."
 reading_time: true
-words_per_minute: 200
-logo: "assets/img/src/logo.jpg"
-background: "assets/img/src/bg.jpg"
+words_per_minute: 400
+logo: "assets/img/src/logo2.jpg"
+background: "assets/img/src/bg2.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
 url: https://gamsa-new.firebaseapp.com
@@ -30,6 +33,8 @@ disqus_shortname: b0ho
 
 # Social
 # if you don't have any of social below, comment the line.
+
+kakaotalk : s82xD0eb
 #google:
 #plus:            #username
 #analytics:
@@ -37,14 +42,14 @@ disqus_shortname: b0ho
 #ad-client:
 #ad-slot:
 #bing-verify:
-email: ybg4828@hanmail.net
+#email: ybg4828@hanmail.net
 #twitter: username
-facebook: username
+facebook: ybg4828
 #github-url: username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram: username
+instagram: youb0ho
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -52,8 +57,9 @@ instagram: username
 #foursquare:        username
 #steam: username
 #dribbble:          username
-youtube: username
-#youtube-channel:   channel
+youtube: watch?v=WvV524mGUJs
+#youtube: watch?v=96JXYhG55Qs
+#youtube-channel: 
 #soundcloud:        username
 #weibo:             username
 #flickr:            username

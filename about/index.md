@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: 감사 농원을 소개합니다
+tags: [about, post]
 date: 2016-03-21
 comments: false
 ---
 
-<center><a href="https://gamsa-new.firebaseapp.com"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>감사농원에서는 최상의 곶감을 제공합니다</center>
 
 ## Features
 
