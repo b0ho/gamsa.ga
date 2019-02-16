@@ -27,29 +27,33 @@ layout: compress
                     <h3 class="title">
                         <a class="zoombtn" href="{{ site.url }}">
                             <p style="font-size:1.2rem;font-weight:300">
-                                {{ site.title }}
+                                {{ site.name }}
                             </p>
                         </a>
                     </h3>
                     <hr class="hr-line" />
                     <h3 class="title">
-                        <a href="{{ site.url }}">
-                            <p style="font-size:1rem;font-weight:300">
-                                {{ site.bio }}
-                            </p>
-                        </a>
+                        <p style="font-size:1rem;font-weight:300">
+                            {{ site.bio }}
+                        </p>
+                        <p style="font-size:1rem;font-weight:300">
+                            {{ site.bio2 }}
+                        </p>
+                        <p style="font-size:1rem;font-weight:300">
+                            {{ site.bio3 }}
+                        </p>
                     </h3>
                     {% include social-links.html %}
                     <hr class="hr-line" />
                     <h3 class="title">
                         <a class="btn zoombtn" href="{{ site.url }}/about">
-                            농원정보
+                            상품정보
                         </a>
                         <a class="btn zoombtn" href="{{ site.url }}/posts">
                             곶감이야기
                         </a>
-                        <a class="btn zoombtn" href="{{ site.url }}/projects">
-                            기타문의
+                        <a class="btn zoombtn" href="{{ site.url }}/faq">
+                            질문답변
                         </a>
                     </h3>
                 </div>

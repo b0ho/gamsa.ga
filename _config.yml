@@ -1,16 +1,26 @@
-# Site
-title: 감사 농원입니다
-bio: "아래 번호로 연락 주세요!
-전화 010-2314-6034
-문자 010-8011-2791   
-"
+#페이지 이름
+title: 감사합니다
+#메인화면 이름
+name: 감사농원
+#전화번호
+bio: "전화 01080112791"
+#문자번호
+bio2: "문자 01023146034"
+#계좌번호
+bio3: "계좌 국민 010000080112791"
+#네비게이션 설명
 description: "thank to you.."
 reading_time: true
 words_per_minute: 400
-logo: "assets/img/src/logo2.jpg"
-background: "assets/img/src/bg2.jpg"
+#로고 이미지
+logo: "assets/img/src/logo.jpg"
+#배경 이미지
+background: "assets/img/src/bg.jpg"
+#얼굴 이미지
+face: "assets/img/src/face.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
+#페이지 주소
 url: https://gamsa-new.firebaseapp.com
 
 # Jekyll
@@ -30,11 +40,11 @@ sass:
 
 # Comments
 disqus_shortname: b0ho
+kakaotalk: s82xD0eb
+facebook: jeongsongheon
+instagram: youb0ho
+youtube: watch?v=WvV524mGUJs
 
-# Social
-# if you don't have any of social below, comment the line.
-
-kakaotalk : s82xD0eb
 #google:
 #plus:            #username
 #analytics:
@@ -44,12 +54,10 @@ kakaotalk : s82xD0eb
 #bing-verify:
 #email: ybg4828@hanmail.net
 #twitter: username
-facebook: ybg4828
 #github-url: username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram: youb0ho
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -57,9 +65,8 @@ instagram: youb0ho
 #foursquare:        username
 #steam: username
 #dribbble:          username
-youtube: watch?v=WvV524mGUJs
 #youtube: watch?v=96JXYhG55Qs
-#youtube-channel: 
+#youtube-channel:
 #soundcloud:        username
 #weibo:             username
 #flickr:            username

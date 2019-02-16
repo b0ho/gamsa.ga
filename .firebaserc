@@ -2,5 +2,8 @@
   "profjects": {
     "staging": "gamsa-new",
     "default": "gamsa-new"
+  },
+  "projects": {
+    "staging": "gamsa-new"
   }
 }

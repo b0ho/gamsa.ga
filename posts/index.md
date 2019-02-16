@@ -1,6 +1,6 @@
 ---
 layout: post-list
 title: 곶감 이야기
-excerpt: "A List of Posts"
+excerpt: "곶감에 대해 알고계신가요?"
 comments: false
 ---

@@ -6,7 +6,7 @@
 				<a href="#">농원정보</a>
 				<ul class="dl-submenu">
 					<li>
-						<img src="{{ site.url }}/{{ site.logo }}" alt="{{ site.title }} photo" class="author-photo">
+						<img src="{{ site.url }}/{{ site.face }}" alt="{{ site.title }} photo" class="author-photo">
 						<h4>{{ site.title }}</h4>
 						<p>{{ site.description }}</p>
 					</li>
@@ -60,7 +60,7 @@
                         <a href="http://steamcommunity.com/id/{{ site.steam }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-steam-square"></i> Steam</a>
                     </li>{% endif %}
                     {% if site.youtube %}<li>
-                        <a href="https://youtube.com/user/{{ site.youtube }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-youtube-square"></i> Youtube</a>
+                        <a href="https://youtube.com/{{ site.youtube }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-youtube-square"></i> Youtube</a>
                     </li>{% endif %}
                     {% if site.youtube-channel %}<li>
                         <a href="https://youtube.com/channel/{{ site.youtube-channel }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-youtube"></i> Youtube</a>

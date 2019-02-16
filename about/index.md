@@ -1,38 +1,40 @@
 ---
 layout: page
-title: 감사 농원을 소개합니다
+title: 감사농원을 방문해 주셔서 감사합니다
 tags: [about, post]
-date: 2016-03-21
-comments: false
+date: 2019-02-16
+comments: true
 ---
 
-<center>감사농원에서는 최상의 곶감을 제공합니다</center>
+## <center>다음과 같은 상품을 판매하고 있습니다.</center>
 
-## Features
+<br>
 
--   Minimal, you can focus on your content
--   Responsive
--   Disqus integration
--   Syntax highlighting
--   Optional post image
--   Social icons
--   Page for sharing projects
--   Optional background image
--   Simple navigation menu
--   MathJax support
+## 품목 1 **대형 상자** @kg
 
-## Preview
+![대형 상자](https://gamsa-new.firebaseapp.com/assets/img/src/goods2.jpg)
 
-{% capture images %}
-https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+<center>가격 @원</center>
 
-See a [live version of Moon](https://gamsa-new.firebaseapp.com) hosted on GitHub.
+<br>
 
-## Getting Started
+## 품목 2 **소형 상자** @kg
 
-To learn how to install and use this theme check out the [Setup Guide](https://gamsa-new.firebaseapp.com) for more information.
+![소형 상자](https://gamsa-new.firebaseapp.com/assets/img/src/goods3.jpg)
 
-[Install Moon](https://gamsa-new.firebaseapp.com){: .btn}
+<center>가격 @원</center>
+
+<br>
+
+## 품목 3 **말린 것** @g
+
+![말린 것](https://gamsa-new.firebaseapp.com/assets/img/src/goods4.jpg)
+
+<center>가격 @원</center>
+
+<br>
+<br>
+
+# 찾아오시는 길
+
+![감사 농원](https://gamsa-new.firebaseapp.com/assets/img/src/location.jpg)
